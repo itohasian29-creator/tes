@@ -47,7 +47,7 @@ konten = [
     ucapan: "tambah keren juga, kan dah ada gelar",
   },
   {
-    gambar: "Stiker 4.gif",
+    gambar: "Stiker 4 kapan.gif",
     ucapan: "BTW, Kapan Putt???",
   },
 ];
